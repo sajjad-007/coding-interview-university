@@ -206,7 +206,7 @@ For a complete CS self-taught program, the resources for my study plan have been
 
 ---
 
-## Why use it?
+[x] ## Why use it?
 
 If you want to work as a software engineer for a large company, these are the things you have to know.
 
